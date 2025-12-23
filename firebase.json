@@ -1,10 +1,14 @@
 {
-  "hosting": {
-    "public": ".",
-    "ignore": [
-      "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
-    ]
+  "admin1": {
+    "email": "admin@campus.com",
+    "role": "admin"
+  },
+  "faculty1": {
+    "email": "faculty@campus.com",
+    "role": "faculty"
+  },
+  "student1": {
+    "email": "student@campus.com",
+    "role": "student"
   }
 }
