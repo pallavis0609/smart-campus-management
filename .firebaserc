@@ -1,5 +1,6 @@
 {
-  "projects": {
-    "default": "smart-campus-mvp"
-  }
+  "users": {},
+  "attendance": {},
+  "energy_data": {},
+  "maintenance_requests": {}
 }
